@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project outputs and caches
+results/
+notebooks/__marimo__/
